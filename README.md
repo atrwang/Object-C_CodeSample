@@ -1,6 +1,6 @@
-# SVProgressHUD
+# Object-c_CodeSample
 
-SVProgressHUD is a clean and easy-to-use HUD meant to display the progress of an ongoing task.
+Object-c_CodeSample is simple demos collections when I study iOS developement.
 
 ![SVProgressHUD](http://f.cl.ly/items/3r2x0b1E1O2F0V422a3R/screenshots2.png)
 
